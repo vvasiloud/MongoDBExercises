@@ -1,4 +1,4 @@
 MongoDBExercises
 ================
 
-MongoDB exercises 
+MongoDB exercises using Python
